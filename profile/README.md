@@ -2,7 +2,13 @@
 ## Plan. Your. Space.
 ## Hi there 👋
 
-
+# Structur:
+- Frontend: spaceArchitectFrontend
+- Microserviceses: space-architect-ms
+-- Unterordner für Microservices: space-architect-ms-name
+- Infrastruktur: space-architect-infrastructur
+- Database: space-architect-database
+- RabbitMQ
 <!--
 
 **Here are some ideas to get you started:**
