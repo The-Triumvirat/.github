@@ -8,6 +8,7 @@
 - Infrastruktur: space-architect-infrastructur
 - Database: space-architect-database
 - RabbitMQ
+- Some more
 <!--
 
 **Here are some ideas to get you started:**
