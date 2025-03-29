@@ -1,5 +1,5 @@
 # The Triumvirat
-## Plan. Your. Space.
+## Plan. Your. Space. And. More.
 
 # Structur:
 - Frontend: spaceArchitectFrontend
